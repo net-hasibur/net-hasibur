@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=net-hasibur" alt="net-hasibur" /></a> </p>
 
-- 🌱 I’m currently learning **DATA SCIENCE**
+
 
 - 📫 How to reach me **rahmanhasibur.ds@gmail.com**
 
